@@ -7,3 +7,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Esta informacion es la buena
 
 ###nuevo pull
+Esta informacion es la buena aqui tambien hago cambios en la misma linea
+
+#### Aqui no hay ningun conflicto
+jjejejejejej
